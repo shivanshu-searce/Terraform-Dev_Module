@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Globe-Project",
+			"path": "../.."
+		},
+		{
+			"name": "MyTasks",
+			"path": "../../../MyTasks"
+		},
+		{
+			"name": "Desktop",
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}
